@@ -17,12 +17,12 @@ Track your workout reps using **Pose Estimation**! This project utilizes **OpenC
 Python 🐍 | OpenCV 🎥 | MediaPipe 🏋️ | NumPy 🔢  
 
 ## 📸 Demo  
-
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/67f758b8-aabf-4d6a-8e3f-a665f211e6ee)
 
 ## 🎮 Usage  
 
 1️⃣ **Run the script**  
-```bash
+
 python main.py
 
 2️⃣ Perform dumbbell curls 💪
